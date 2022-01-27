@@ -1,1 +1,1 @@
-# Awesome-Clothing-Store
+# It is a store to buy Grocery items
