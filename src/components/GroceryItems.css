@@ -1,0 +1,37 @@
+.grocery-items
+{
+  display: inline-block;
+  position: relative;
+  margin: 3%;
+  width: 26%;
+  height: 238px;
+  overflow: hidden;
+  opacity: 0.8;
+}
+
+.grocery-items:hover{
+  opacity: 0.5;
+}
+
+.title{
+  position: absolute;
+  bottom: 175px;
+  left: 35%;
+  color: rgb(0, 0, 0);
+}
+
+.btn-primary{
+ 
+    position: absolute;
+    top: 72%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  
+}
