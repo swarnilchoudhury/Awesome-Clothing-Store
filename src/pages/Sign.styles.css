@@ -1,0 +1,34 @@
+.Fields{
+
+    background-color: white;
+    padding: 40px;
+    position: relative;
+    left: 15%;
+    width: 60%;
+    right: 10%;
+    margin-top: 80px;
+}
+.btn-info{
+    margin: 34px;
+    font-size: 18px;
+}
+.form-label{
+    font-family: 'Rowdies', cursive;
+}
+p{
+    margin-left: 18rem;
+    width: 50%;
+}
+.button{
+    margin-left: 18rem;
+    width: 50%;
+}
+.ab{
+margin-left: 18rem;
+   width: 50%;
+}
+
+.register
+{
+    cursor: pointer;
+}

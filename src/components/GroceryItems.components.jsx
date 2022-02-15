@@ -1,7 +1,7 @@
-import './GroceryItems.css'
+import './GroceryHomePage.css'
 import { useNavigate } from 'react-router-dom';
 
-const GroceryItems=({imageUrl,title,linkUrl,match})=>{
+const GroceryItems=({imageUrl,title,linkUrl})=>{
 
     const navigate = useNavigate();
   
